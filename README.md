@@ -8,3 +8,6 @@ Series of presentations (workshops, tutorials, teaching material, ...) that were
 - [Slides](./ECML-PKDD-2024/ECML-PKDD_2024_RC_workshop_Reservoirpy.pdf)
 - [Tutorial](./ECML-PKDD-2024/Introduction.ipynb)
 
+#### Nov. 16th, 2023: (🇫🇷In French) [Séminaire Phimeca, Rencontres chercheur·euse·s et ingénieur·e·s](https://seminaire.phimeca.com/edition2023/) conference
+- [Slides](./Phimeca-2023/Slides.pdf)
+
