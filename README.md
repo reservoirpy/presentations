@@ -1,6 +1,9 @@
 # Presentations
 Series of presentations (workshops, tutorials, teaching material, ...) that were used to present ReservoirPy and Reservoir Computing.
 
+#### Jan. 2025: (🇫🇷In French) [INST-OPTIQ] lectures at Bordeaux's Institut d'Optique
+- [01. Introduction Tutorial](./Cours-institut-d-optique-2024-2025/01_Introduction.ipynb)
+
 #### Oct. 16, 2024: (🇫🇷In French) [CATIE](https://www.catie.fr/en/home/) workshop
 - [Tutorial](./CATIE-2024/Tutoriel.ipynb)
 
@@ -10,4 +13,3 @@ Series of presentations (workshops, tutorials, teaching material, ...) that were
 
 #### Nov. 16th, 2023: (🇫🇷In French) [Séminaire Phimeca, Rencontres chercheur·euse·s et ingénieur·e·s](https://seminaire.phimeca.com/edition2023/) conference
 - [Slides](./Phimeca-2023/Slides.pdf)
-
