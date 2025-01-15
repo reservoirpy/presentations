@@ -1,17 +1,23 @@
 # Presentations
 Series of presentations (workshops, tutorials, teaching material, ...) that were used to present ReservoirPy and Reservoir Computing.
 
-#### Jan. 2025: (🇫🇷In French) [INST-OPTIQ] lectures at Bordeaux's Institut d'Optique
-- [01 & 02 Lecture on Reservoir Computing](./Institut-d-optique-2024-2025/01a_Reservoirs-Tutorial-like_M2_Instit-Optiq_2024-2025_post.pdf)
-- [01. Introduction Tutorial](./Institut-d-optique-2024-2025/01_Introduction.ipynb)
+#### Jan. 2025: 🇫🇷 Lectures at [Bordeaux's Institut d'Optique](https://www.institutoptique.fr/letablissement/campus-national/linstitut-doptique-bordeaux), France
+- [01 & 02 - Lecture on Reservoir Computing Slides](./Institut-d-optique-2024-2025/01a_Reservoirs-Tutorial-like_M2_Instit-Optiq_2024-2025_post.pdf)
+- [01 - Introduction Tutorial](./Institut-d-optique-2024-2025/01_Introduction.ipynb)
 
+#### Oct. 2024: 🇫🇷 Lectures at [Ecole Nationale Supérieure de Cognitique (ESNC)](https://ensc.bordeaux-inp.fr), Bordeaux
+- [02 Lecture on ReservoirPy Slides](./ENSC-2024/02_ReservoiPy_M2_ENSC_2024-2025.pdf)
 
-#### Oct. 16, 2024: (🇫🇷In French) [CATIE](https://www.catie.fr/en/home/) workshop
+#### Oct. 16, 2024: 🇫🇷 [CATIE](https://www.catie.fr/en/home/) workshop, Bordeaux, France
 - [Tutorial](./CATIE-2024/Tutoriel.ipynb)
 
-#### Sep. 9th, 2024: [ECML-PKDD](https://sites.google.com/view/reservoir-computing-tf/activities/ecmlpkdd-2024-tutorial-on-reservoir-computing) Tutorial
+#### Sep. 9th, 2024: [ECML-PKDD](https://sites.google.com/view/reservoir-computing-tf/activities/ecmlpkdd-2024-tutorial-on-reservoir-computing) Tutorial, (online) Vilnius, Lithuania
+
 - [Slides](./ECML-PKDD-2024/ECML-PKDD_2024_RC_workshop_Reservoirpy.pdf)
 - [Tutorial](./ECML-PKDD-2024/Introduction.ipynb)
 
-#### Nov. 16th, 2023: (🇫🇷In French) [Séminaire Phimeca, Rencontres chercheur·euse·s et ingénieur·e·s](https://seminaire.phimeca.com/edition2023/) conference
+#### Jul. 2024: PFIA Tutorial, La Rochelle, France
+- [Tutorial repository](https://github.com/reservoirpy/PFIA2024)
+
+#### Nov. 16th, 2023: 🇫🇷 [Phimeca, Rencontres chercheur·euse·s et ingénieur·e·s](https://seminaire.phimeca.com/edition2023/) Seminar, Paris, France
 - [Slides](./Phimeca-2023/Slides.pdf)
