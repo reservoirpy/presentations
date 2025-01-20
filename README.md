@@ -1,6 +1,11 @@
 # Presentations
 Series of presentations (workshops, tutorials, teaching material, ...) that were used to present ReservoirPy and Reservoir Computing.
 
+#### Jan. 2025: 🇫🇷 Conference talk at [AI4Industry](https://ai4industry.fr/)
+
+- [Slides](./AI4Industry-2025/Presentation_ReservoirPy.pdf)
+- [Play on Google Colab](https://colab.research.google.com/github/reservoirpy/presentations/blob/main/AI4Industry-2025/Introduction.ipynb)
+
 #### Jan. 2025: 🇫🇷 Lectures at [Bordeaux's Institut d'Optique](https://www.institutoptique.fr/letablissement/campus-national/linstitut-doptique-bordeaux), France
 - [01 & 02 - Lecture on Reservoir Computing Slides](./Institut-d-optique-2024-2025/01a_Reservoirs-Tutorial-like_M2_Instit-Optiq_2024-2025_post.pdf)
 - [01 - Introduction Tutorial](./Institut-d-optique-2024-2025/01_Introduction.ipynb)
