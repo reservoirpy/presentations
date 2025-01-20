@@ -5,7 +5,7 @@ Series of presentations (workshops, tutorials, teaching material, ...) that were
 - [01 & 02 - Lecture on Reservoir Computing Slides](./Institut-d-optique-2024-2025/01a_Reservoirs-Tutorial-like_M2_Instit-Optiq_2024-2025_post.pdf)
 - [01 - Introduction Tutorial](./Institut-d-optique-2024-2025/01_Introduction.ipynb)
 
-#### Oct. 2024: 🇫🇷 Lectures at [Ecole Nationale Supérieure de Cognitique (ESNC)](https://ensc.bordeaux-inp.fr), Bordeaux
+#### Oct. 2024: 🇫🇷 Lectures at [Ecole Nationale Supérieure de Cognitique (ENSC)](https://ensc.bordeaux-inp.fr), Bordeaux
 - [02 Lecture on ReservoirPy Slides](./ENSC-2024/02_ReservoiPy_M2_ENSC_2024-2025.pdf)
 
 #### Oct. 16, 2024: 🇫🇷 [CATIE](https://www.catie.fr/en/home/) workshop, Bordeaux, France
