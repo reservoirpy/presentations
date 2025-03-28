@@ -1,6 +1,16 @@
 # Presentations
 Series of presentations (workshops, tutorials, teaching material, ...) that were used to present ReservoirPy and Reservoir Computing.
 
+C: Courses
+
+P: Pratical sessions
+
+#### Mar. 2025: 🇫🇷 Lectures at [CY Tech Pau](https://cytech.cyu.fr/cy-tech-pau), France
+- [C-01 - Lecture on Reservoir Computing Slides](./CY-Tech-Pau-2024-2025/Cours01_Reservoirs-Tutorial-like_M2_CY-Tech-Pau.pdf)
+- [P-01 - Introduction Tutorial](./CY-Tech-Pau-2024-2025/TP01_Introduction.ipynb)
+- [P-02 - Introduction Tutorial](./CY-Tech-Pau-2024-2025/TP02_Exploration-hyperparametre-pour-prediction-et-classification.ipynb)
+
+
 #### Jan. 2025: 🇫🇷 Conference talk at [AI4Industry](https://ai4industry.fr/)
 
 - [Slides](./AI4Industry-2025/Presentation_ReservoirPy.pdf)
@@ -8,10 +18,11 @@ Series of presentations (workshops, tutorials, teaching material, ...) that were
 
 #### Jan. 2025: 🇫🇷 Lectures at [Bordeaux's Institut d'Optique](https://www.institutoptique.fr/letablissement/campus-national/linstitut-doptique-bordeaux), France
 - [01 & 02 - Lecture on Reservoir Computing Slides](./Institut-d-optique-2024-2025/01a_Reservoirs-Tutorial-like_M2_Instit-Optiq_2024-2025_post.pdf)
-- [01 - Introduction Tutorial](./Institut-d-optique-2024-2025/01_Introduction.ipynb)
+- [P-01 - Introduction Tutorial](./Institut-d-optique-2024-2025/01_Introduction.ipynb)
+- (TBA: other links of the folder)
 
 #### Oct. 2024: 🇫🇷 Lectures at [Ecole Nationale Supérieure de Cognitique (ENSC)](https://ensc.bordeaux-inp.fr), Bordeaux
-- [02 Lecture on ReservoirPy Slides](./ENSC-2024/02_ReservoiPy_M2_ENSC_2024-2025.pdf)
+- [C-02 Lecture on ReservoirPy Slides](./ENSC-2024/02_ReservoiPy_M2_ENSC_2024-2025.pdf)
 
 #### Oct. 16, 2024: 🇫🇷 [CATIE](https://www.catie.fr/en/home/) workshop, Bordeaux, France
 - [Tutorial](./CATIE-2024/Tutoriel.ipynb)
