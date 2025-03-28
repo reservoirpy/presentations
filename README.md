@@ -2,13 +2,12 @@
 Series of presentations (workshops, tutorials, teaching material, ...) that were used to present ReservoirPy and Reservoir Computing.
 
 C: Courses
-
 P: Pratical sessions
 
 #### Mar. 2025: 🇫🇷 Lectures at [CY Tech Pau](https://cytech.cyu.fr/cy-tech-pau), France
 - [C-01 - Lecture on Reservoir Computing Slides](./CY-Tech-Pau-2024-2025/Cours01_Reservoirs-Tutorial-like_M2_CY-Tech-Pau.pdf)
 - [P-01 - Introduction Tutorial](./CY-Tech-Pau-2024-2025/TP01_Introduction.ipynb)
-- [P-02 - Introduction Tutorial](./CY-Tech-Pau-2024-2025/TP02_Exploration-hyperparametre-pour-prediction-et-classification.ipynb)
+- [P-02 - Advanced exercices and exploration of hyperparameters](./CY-Tech-Pau-2024-2025/TP02_Exploration-hyperparametre-pour-prediction-et-classification.ipynb)
 
 
 #### Jan. 2025: 🇫🇷 Conference talk at [AI4Industry](https://ai4industry.fr/)
