@@ -4,6 +4,10 @@ Series of presentations (workshops, tutorials, teaching material, ...) that were
 C: Courses
 P: Pratical sessions
 
+#### June 30th, 2025: IJCNN Tutorial, Roma, Italia
+
+- [Tutorial](./IJCNN-2025/Introduction.ipynb)
+
 #### Mar. 2025: 🇫🇷 Lectures at [CY Tech Pau](https://cytech.cyu.fr/cy-tech-pau), France
 - [C-01 - Lecture on Reservoir Computing Slides](./CY-Tech-Pau-2024-2025/Cours01_Reservoirs-Tutorial-like_M2_CY-Tech-Pau.pdf)
 - [P-01 - Introduction Tutorial](./CY-Tech-Pau-2024-2025/TP01_Introduction.ipynb)
