@@ -74,12 +74,12 @@ class Larger(Node):
                 x=new_state[k-1],
             )
             k2 = self.f(
-                u=(x[:, k - 1] + x[:, k]) / 2,
+                u=(x[:, k-1] + x[:, k]) / 2,
                 past=(past_state[k-1] + past_state[k]) / 2,
-                x=new_state[k - 1] - dt * k1 / 2,
+                x=new_state[k-1] - dt * k1 / 2,
             )
             k3 = self.f(
-                u=(x[:, k - 1] + x[:, k]) / 2,
+                u=(x[:, k-1] + x[:, k]) / 2,
                 past=(past_state[k-1] + past_state[k]) / 2,
                 x=new_state[k-1] - dt * k2 / 2,
             )
