@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
+
+[packages]
+pandas = "*"
+matplotlib = "*"
+jupyter = "*"
+scikit-learn = "*"
+hyperopt = "*"
+optuna = "*"
+plotly = "*"
+librosa = "*"
+numba = "*"
+joblib = "==0.14.1"
+nbconvert = "==6.0.7"
+
+[packages.76a7def]
+path = "./../../reservoirpy"
+editable = true
