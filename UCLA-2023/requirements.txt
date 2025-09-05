@@ -1,0 +1,9 @@
+reservoirpy
+scikit-learn
+librosa
+matplotlib
+pandas
+seaborn
+numpy
+scipy
+
