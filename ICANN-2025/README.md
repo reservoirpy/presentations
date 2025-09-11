@@ -8,4 +8,6 @@ The aim is to:
   - [Intrinsic Plasticity](https://github.com/reservoirpy/reservoirpy/tree/master/examples/Improving%20reservoirs%20using%20Intrinsic%20Plasticity))
   - [Next Generation Reservoir Computing](https://github.com/reservoirpy/reservoirpy/tree/master/examples/Next%20Generation%20Reservoir%20Computing)
 
+-> Start the [Jupyter notebook here](https://github.com/reservoirpy/presentations/blob/main/ICANN-2025/Introduction.ipynb). 
+
 Note that if you already installed ReservoirPy more than one month ago, you would need to upgrade it to the new main version, because this tutorial won't work with previous main 0.3 version. Indeed, we now move to version 0.4 with several main new features (see the last [main release of ReservoirPy0.4](https://github.com/reservoirpy/reservoirpy/releases/tag/v0.4.0)).
