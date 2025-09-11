@@ -4,6 +4,10 @@ Series of presentations (workshops, tutorials, teaching material, ...) that were
 C: Courses
 P: Pratical sessions
 
+#### Sept. 12th, 2025: ICANN Tutorial, Kaunas Lithuania
+- [ReadMe](./ICANN-2025/README.md)
+- [Tutorial](./ICANN-2025/Introduction.ipynb)
+
 #### June 30th, 2025: IJCNN Tutorial, Roma, Italia
 
 - [Tutorial](./IJCNN-2025/Introduction.ipynb)
