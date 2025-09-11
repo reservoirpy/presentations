@@ -5,7 +5,7 @@ The aim is to:
 - give you quick insights on several key features;
 - propose a quick hackathon and see which participant manages to reach the best performances while testing some of our different reservoirs models:
   - [ES2N node](https://github.com/reservoirpy/reservoirpy/tree/master/examples/Edge%20of%20Stability%20Echo%20State%20Network)
-  - [Intrinsic Plasticity](https://github.com/reservoirpy/reservoirpy/tree/master/examples/Improving%20reservoirs%20using%20Intrinsic%20Plasticity))
+  - [Intrinsic Plasticity](https://github.com/reservoirpy/reservoirpy/tree/master/examples/Improving%20reservoirs%20using%20Intrinsic%20Plasticity)
   - [Next Generation Reservoir Computing](https://github.com/reservoirpy/reservoirpy/tree/master/examples/Next%20Generation%20Reservoir%20Computing)
 
 -> Start the [Jupyter notebook here](https://github.com/reservoirpy/presentations/blob/main/ICANN-2025/Introduction.ipynb). 
