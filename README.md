@@ -5,7 +5,7 @@ C: Courses
 P: Pratical sessions
 
 #### Sept. 12th, 2025: ICANN Tutorial, Kaunas Lithuania
-- [ReadMe](./ICANN-2025/README.md)
+- [Home](./ICANN-2025/)
 - [Tutorial](./ICANN-2025/Introduction.ipynb)
 
 #### June 30th, 2025: IJCNN Tutorial, Roma, Italia
