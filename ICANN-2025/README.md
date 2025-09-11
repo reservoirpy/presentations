@@ -1,4 +1,4 @@
-This is a Tutorial presented at the [3rd Reservoir Computing workshop](https://sites.google.com/view/reservoircomputing2025/workshop-program) held at [ICANN 2025](https://e-nns.org/icann2025/rc/).
+This is a [Tutorial](https://sites.google.com/view/reservoircomputing2025/tutorial) presented at the [3rd Reservoir Computing workshop](https://sites.google.com/view/reservoircomputing2025/workshop-program) held at [ICANN 2025](https://e-nns.org/icann2025/rc/).
 
 The aim is to:
 - make participant familiar with [ReservoirPy library](https://github.com/reservoirpy/reservoirpy) the most popular reservoir library in Python;
