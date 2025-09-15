@@ -6,7 +6,7 @@ P: Pratical sessions
 
 #### Sep. 15th, 2025: [ECML-PKDD](https://sites.google.com/view/reservoir-computing-tf/activities/ecml-pkdd-2-25-tutorial-on-reservoir-computing) Tutorial, (online) Porto, Portugal
 
-- [Slides](./ECML-PKDD-2025/)
+- [Slides](./ECML-PKDD-2025/2025-09-15_ReservoirPy-ECML-PKDD-RC-chap3_soft-and-reservoirpy.pdf)
 - [Tutorial](./ECML-PKDD-2025/Introduction.ipynb)
 
 #### Sept. 12th, 2025: [ICANN](https://sites.google.com/view/reservoircomputing2025/workshop-program) Tutorial, Kaunas Lithuania
