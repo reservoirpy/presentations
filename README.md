@@ -14,7 +14,7 @@ P: Pratical sessions
 - [Home](./ICANN-2025/)
 - [Tutorial](./ICANN-2025/Introduction.ipynb)
 
-#### June 30th, 2025: IJCNN Tutorial, Roma, Italia
+#### June 30th, 2025: [IJCNN](https://sites.google.com/view/reservoir-computing-tf/activities/ijcnn-2025-special-session) Tutorial, Roma, Italia
 
 - [Tutorial](./IJCNN-2025/Introduction.ipynb)
 
