@@ -1,8 +1,7 @@
 # Presentations
 Series of presentations (workshops, tutorials, teaching material, ...) that were used to present ReservoirPy and Reservoir Computing.
 
-C: Courses
-P: Pratical sessions
+(🇫🇷: Presentation made in French)
 
 #### Sep. 15th, 2025: [ECML-PKDD](https://sites.google.com/view/reservoir-computing-tf/activities/ecml-pkdd-2-25-tutorial-on-reservoir-computing) Tutorial, (online) Porto, Portugal
 
@@ -11,8 +10,9 @@ P: Pratical sessions
 
 #### Sept. 12th, 2025: [ICANN](https://sites.google.com/view/reservoircomputing2025/workshop-program) Tutorial, (online) Kaunas, Lithuania
 
-- [Home](./ICANN-2025/)
-- [Tutorial](./ICANN-2025/Introduction.ipynb)
+- [Presentation](./ICANN-2025/2025-09-12_ReservoirPy-ICANN-RC-tutorial.pdf)
+- [Tutorial](./ICANN-2025/01_Introduction.ipynb)
+- [Small hackathon notebook](./ICANN-2025/02_Hackathon.ipynb)
 
 #### June 30th, 2025: [IJCNN](https://sites.google.com/view/reservoir-computing-tf/activities/ijcnn-2025-special-session) Tutorial, Roma, Italia
 
