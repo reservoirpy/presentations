@@ -9,7 +9,7 @@ P: Pratical sessions
 - [Slides](./ECML-PKDD-2025/2025-09-15_ReservoirPy-ECML-PKDD-RC-chap3_soft-and-reservoirpy.pdf)
 - [Tutorial](./ECML-PKDD-2025/Introduction.ipynb)
 
-#### Sept. 12th, 2025: [ICANN](https://sites.google.com/view/reservoircomputing2025/workshop-program) Tutorial, Kaunas Lithuania
+#### Sept. 12th, 2025: [ICANN](https://sites.google.com/view/reservoircomputing2025/workshop-program) Tutorial, (online) Kaunas, Lithuania
 
 - [Home](./ICANN-2025/)
 - [Tutorial](./ICANN-2025/Introduction.ipynb)
