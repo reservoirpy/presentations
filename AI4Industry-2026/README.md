@@ -11,7 +11,7 @@ pip install reservoirpy[hyper]
 
 3. Lancez le [tutoriel court en français](Introduction-courte-en-francais-avec-exercices.ipynb ) avec une analyse de données d'électro-encpéphalogramme (EEG) et des exercices à compléter.
 
-4. Lancez un [tutoriel des fonctionalités avancées](Advanced-introduction-in-English.ipynb) de ReservoirPy en Anglais incluant les recherches d'hyperparamètres (HP) dynamique et non-dynamiques. Vous pouvez suivre sur les [diapos de présentation](Reservoir-Computing_AI4industry2026.pdf) à partir de la page 130 environ. (Si vous téléchargez le code sur votre ordinateur, pensez à bien télécharger tout le dossier afin de récupérer également le fichier 'interactive_report.py' pour la recherche d'HP dynamique.)
+4. Lancez un [tutoriel des fonctionalités avancées](Advanced-introduction-in-English.ipynb) de ReservoirPy en Anglais incluant les recherches d'hyperparamètres (HP) dynamique et non-dynamiques. Vous pouvez suivre sur les [diapos de présentation](Reservoir-Computing_AI4industry2026.pdf) à partir de la page 128 du pdf (cf. diapo 187). (Si vous téléchargez le code sur votre ordinateur, pensez à bien télécharger tout le dossier afin de récupérer également le fichier 'interactive_report.py' pour la recherche d'HP dynamique.)
 
 5. Vous pouvez également trouver des informations complémentaires sur ReservoirPy en Français dans les [diapos de la présentation dédiée à ReservoirPy](ReservoirPy-AI4industry2025_ReservoirPy-0.3.pdf) (lors d'AI4industry 2025). (Notes que cela concerne une version précédente de ReservoirPy (la v0.3.*), il se peut que certaines fonctions aient changées.)
 
